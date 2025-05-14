@@ -1,4 +1,3 @@
-
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhath+Dilshan;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Innovator" alt="Typing Animation" />
   </div>
@@ -286,7 +285,6 @@ I'm always open to:
         </td>
       </tr>
     </table>
-    
     <i>© 2023 Prabhath Dilshan. All rights reserved.</i>
     <br><br>
     <img src="https://raw.githubusercontent.com/Dill1027/Dill1027/main/assets/line.gif" width="100%" height="2px">
