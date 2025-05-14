@@ -1,3 +1,12 @@
+<!-- Header with Profile Image and Typing Effect -->
+<div align="center">
+  <!-- Profile Image -->
+  <img src="https://avatars.githubusercontent.com/u/145959457?s=400&u=daa2167369274495c24f527cdc5c57928341d8e1&v=4" 
+       width="150" 
+       style="border-radius: 50%; border: 3px solid #f92672;" 
+       alt="Prabhath Dilshan" />
+  
+  <!-- Typing Animation -->
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhath+Dilshan;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Innovator" alt="Typing Animation" />
   </div>
@@ -232,48 +241,62 @@ I'm always open to:
 
 ## 🌐 Let's Connect <span id="contact"></span>
 
-<div align="center">
-  <!-- Email -->
-  <a href="mailto:prabhathdilshan2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<!-- Enhanced Connect Section with Better Visual Design -->
+<div align="center" id="contact">
+  <div>
+    <img src="https://raw.githubusercontent.com/Dill1027/Dill1027/main/assets/wave.gif" width="60" alt="Wave">
+    <h2>Let's Connect</h2>
+  </div>
   
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/prabhath-dilshan-abeysinghe/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <div>
+    <a href="mailto:prabhathdilshan2001@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/prabhath-dilshan-abeysinghe/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/dill_abeysinghe/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/PrabhathDilshanAbeysinghe/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://www.tiktok.com/@prabhath_dil" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    </a>
+    <a href="https://github.com/Dill1027" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </div>
   
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/dill_abeysinghe/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/PrabhathDilshanAbeysinghe/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@prabhath_dil">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/Dill1027">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Dill1027/Dill1027/issues/new?template=contact-form.md&title=Contact%20Request:%20">
+    <img src="https://img.shields.io/badge/Contact%20Form-555555.svg?style=for-the-badge&logo=github&logoColor=white" alt="Contact Form">
   </a>
 </div>
 
-<!-- Contact Message -->
+<!-- Stylish Footer -->
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Let's Connect" />
-  <p>Don't hesitate to reach out!</p>
-</div>
-
----
-
-<div align="center">
-  <b>Thank you for visiting my profile!</b>
-  <br>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red" alt="Made with love" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=fadeIn" width="100%">
+  
+  <div>
+    <table>
+      <tr>
+        <td>
+          <a href="https://hits.seeyoufarm.com">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDill1027&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views">
+          </a>
+        </td>
+        <td>
+          <img src="https://img.shields.io/github/followers/Dill1027?label=Followers&style=social" alt="GitHub Followers">
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love">
+        </td>
+      </tr>
+    </table>
+    
+    <i>© 2023 Prabhath Dilshan. All rights reserved.</i>
+    <br><br>
+    <img src="https://raw.githubusercontent.com/Dill1027/Dill1027/main/assets/line.gif" width="100%" height="2px">
+  </div>
 </div>
