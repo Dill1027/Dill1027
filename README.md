@@ -1,6 +1,18 @@
-<!-- Header with Animated Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhath+Dilshan;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Innovator" alt="Typing Animation" />
+<!-- Header with Profile Image and Typing Effect -->
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+  <!-- Profile Image with Floating Animation -->
+  <img src="https://avatars.githubusercontent.com/u/Dill1027" 
+       width="150" 
+       style="border-radius: 50%; 
+              border: 3px solid #f92672;
+              box-shadow: 0 0 20px rgba(249, 38, 114, 0.5);
+              animation: float 6s ease-in-out infinite;" 
+       alt="Prabhath Dilshan" />
+  
+  <!-- Typing Animation -->
+  <div style="margin-top: 1rem;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhath+Dilshan;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Innovator" alt="Typing Animation" />
+  </div>
 </div>
 
 <!-- Profile Views Counter -->
@@ -248,97 +260,6 @@ I'm always open to:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dill1027&label=Profile%20views&color=0e75b6&style=flat" alt="Dill1027" /> 
-  <p>Made with ❤️ in Sri Lanka</p>
-</div>
-```
-
-<!-- Tech Stack Section -->
-<div id="tech-stack" style="margin-bottom: 3rem;">
-  <h2 align="center" style="border-bottom: 3px solid #0d7377; display: inline-block; padding-bottom: 5px;">🛠️ Tech Stack</h2>
-  
-  <!-- Skill Matrix -->
-  <div style="
-    background: rgba(13, 115, 119, 0.1);
-    border-radius: 20px;
-    padding: 2rem;
-    margin-top: 1.5rem;
-    backdrop-filter: blur(5px);
-  ">
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.5rem;">
-      <!-- Frontend -->
-      <div style="
-        background: rgba(26, 26, 46, 0.8);
-        border-radius: 15px;
-        padding: 1.5rem;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        transition: transform 0.3s ease;
-      " onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform=''">
-        <h3 style="color: #f92672; margin-top: 0;">Frontend</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        </div>
-      </div>
-      <!-- Backend -->
-      <div style="
-        background: rgba(26, 26, 46, 0.8);
-        border-radius: 15px;
-        padding: 1.5rem;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        transition: transform 0.3s ease;
-      " onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform=''">
-        <h3 style="color: #0d7377; margin-top: 0;">Backend</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        </div>
-      </div>
-      <!-- Databases -->
-      <div style="
-        background: rgba(26, 26, 46, 0.8);
-        border-radius: 15px;
-        padding: 1.5rem;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        transition: transform 0.3s ease;
-      " onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform=''">
-        <h3 style="color: #ff9e00; margin-top: 0;">Databases</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        </div>
-      </div>
-      <!-- DevOps -->
-      <div style="
-        background: rgba(26, 26, 46, 0.8);
-        border-radius: 15px;
-        padding: 1.5rem;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        transition: transform 0.3s ease;
-      " onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform=''">
-        <h3 style="color: #6e41e2; margin-top: 0;">DevOps & Tools</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- Projects Section -->
 <div id="projects" style="margin-bottom: 3rem;">
@@ -432,128 +353,3 @@ I'm always open to:
     </div>
   </div>
 </div>
-
-<!-- GitHub Stats Section -->
-<div style="margin-bottom: 3rem;">
-  <h2 align="center" style="border-bottom: 3px solid #6e41e2; display: inline-block; padding-bottom: 5px;">📊 GitHub Analytics</h2>
-  
-  <div style="
-    background: rgba(110,65,226,0.1);
-    border-radius: 20px;
-    padding: 2rem;
-    margin-top: 1.5rem;
-    backdrop-filter: blur(5px);
-  ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
-      <div style="flex: 1; min-width: 300px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dill1027&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      </div>
-      <div style="flex: 1; min-width: 300px;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dill1027&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-      </div>
-    </div>
-    <div style="margin-top: 1.5rem;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dill1027&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%;" />
-    </div>
-    <div style="margin-top: 1.5rem;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dill1027&theme=redical&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F92672&point=FFFFFF" alt="Activity Graph" style="width: 100%; border-radius: 10px;" />
-    </div>
-  </div>
-</div>
-
-<!-- Contact Section -->
-<div id="contact" style="margin-bottom: 3rem;">
-  <h2 align="center" style="border-bottom: 3px solid #f92672; display: inline-block; padding-bottom: 5px;">🤝 Let's Connect</h2>
-  
-  <div style="
-    background: rgba(26, 26, 46, 0.7);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
-    padding: 2rem;
-    margin-top: 1.5rem;
-  ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; text-align: center;">
-      <a href="https://linkedin.com/in/your-profile" style="text-decoration: none;">
-        <div style="
-          background: rgba(13, 115, 119, 0.2);
-          border-radius: 15px;
-          padding: 1.5rem;
-          transition: all 0.3s ease;
-          width: 150px;
-        " onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(13,115,119,0.4)'" 
-        onmouseout="this.style.transform=''; this.style.background='rgba(13,115,119,0.2)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin-bottom: 1rem;" />
-          <p style="margin: 0; color: #0d7377; font-weight: bold;">LinkedIn</p>
-        </div>
-      </a>
-      <a href="mailto:prabhathdilshan2001@gmail.com" style="text-decoration: none;">
-        <div style="
-          background: rgba(249, 38, 114, 0.2);
-          border-radius: 15px;
-          padding: 1.5rem;
-          transition: all 0.3s ease;
-          width: 150px;
-        " onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(249,38,114,0.4)'" 
-        onmouseout="this.style.transform=''; this.style.background='rgba(249,38,114,0.2)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" style="margin-bottom: 1rem;" />
-          <p style="margin: 0; color: #f92672; font-weight: bold;">Email</p>
-        </div>
-      </a>
-      <a href="https://twitter.com/your-handle" style="text-decoration: none;">
-        <div style="
-          background: rgba(29, 161, 242, 0.2);
-          border-radius: 15px;
-          padding: 1.5rem;
-          transition: all 0.3s ease;
-          width: 150px;
-        " onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(29,161,242,0.4)'" 
-        onmouseout="this.style.transform=''; this.style.background='rgba(29,161,242,0.2)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" style="margin-bottom: 1rem;" />
-          <p style="margin: 0; color: #1da1f2; font-weight: bold;">Twitter</p>
-        </div>
-      </a>
-      <a href="https://github.com/Dill1027" style="text-decoration: none;">
-        <div style="
-          background: rgba(110, 65, 226, 0.2);
-          border-radius: 15px;
-          padding: 1.5rem;
-          transition: all 0.3s ease;
-          width: 150px;
-        " onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(110,65,226,0.4)'" 
-        onmouseout="this.style.transform=''; this.style.background='rgba(110,65,226,0.2)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-bottom: 1rem;" />
-          <p style="margin: 0; color: #6e41e2; font-weight: bold;">GitHub</p>
-        </div>
-      </a>
-    </div>
-    <div style="margin-top: 2rem; text-align: center;">
-      <p style="color: #a2a8d3;">Feel free to reach out for collaborations or just a friendly chat!</p>
-      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connect GIF" style="border-radius: 50%;" />
-    </div>
-  </div>
-</div>
-
-<!-- Footer -->
-<div align="center" style="margin-top: 3rem; padding: 1.5rem; background: rgba(26, 26, 46, 0.7); border-radius: 15px;">
-  <p style="color: #a2a8d3; margin: 0;">Made with ❤️ and ☕ in Kurunegala, Sri Lanka</p>
-  <p style="color: #a2a8d3; margin: 0.5rem 0 0 0;">© 2023 Prabhath Dilshan</p>
-</div>
-
-<!-- Animation Styles -->
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  @keyframes pulse {
-    0% { box-shadow: 0 0 15px rgba(249, 38, 114, 0.4); }
-    100% { box-shadow: 0 0 25px rgba(249, 38, 114, 0.6); }
-  }
-  
-  @media (max-width: 768px) {
-    div[style*="min-width: 300px"] {
-      width: 100% !important;
-    }
-  }
-</style>
