@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Prabhath Dilshan
+# 👋 Hello, I'm Prabhath Dilshan
 
 [![GitHub Followers](https://img.shields.io/github/followers/Dill1027?label=Follow%20Me&style=social)](https://github.com/Dill1027)  
 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**
@@ -7,12 +7,12 @@
 
 ### 🚀 About Me
 
-- 🎓 IT Undergraduate at **SLIIT**, currently in my 2nd year  
-- 🌱 **Learning:** MERN Stack, Java, Python, and Distributed Systems  
-- 🛠️ **Building:** A conflict-free Academic Scheduler web app with chatbot & gamification features  
-- 💡 **Passionate About:** Open-source contributions, automation, and solving real-world problems  
-- 🌍 **From:** Sri Lanka 🇱🇰  
-- 📫 **Reach me:** [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🎓 **IT Undergraduate** at **SLIIT**, currently in my 2nd year
+- 🌱 **Learning:** MERN Stack, Java, Python, and Distributed Systems
+- 🛠️ **Building:** A conflict-free Academic Scheduler web app with chatbot & gamification features
+- 💡 **Passionate About:** Open-source contributions, automation, and solving real-world problems
+- 🌍 **From:** Sri Lanka 🇱🇰
+- 📫 **Reach me:** [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)
 - ⚡ **Fun fact:** I automate repetitive tasks just for fun!
 
 ---
@@ -67,4 +67,3 @@
 > *"The best way to get started is to quit talking and begin doing." – Walt Disney*
 
 ---
-
