@@ -1,8 +1,43 @@
-# 👋 Hello,     I'm Prabhath Dilshan
+<!-- Header with Animated Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhath+Dilshan;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Innovator" alt="Typing Animation" />
+</div>
 
-[![GitHub Followers](https://img.shields.io/github/followers/Dill1027?label=Follow%20Me&style=social)](https://github.com/Dill1027)  
-** Developer | Tech Enthusiast | Lifelong Learner | sportman **
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dill1027&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://badges.pufler.dev/years/Dill1027" alt="Years on GitHub" />
+  <img src="https://badges.pufler.dev/repos/Dill1027" alt="Repositories" />
+  <img src="https://badges.pufler.dev/commits/monthly/Dill1027" alt="Monthly Commits" />
+</div>
 
+<!-- 3D Profile Section -->
+<div align="center" style="margin: 2rem 0; perspective: 1000px;">
+  <div style="
+    background: linear-gradient(145deg, #1a1a2e, #16213e);
+    border-radius: 20px;
+    padding: 2rem;
+    display: inline-block;
+    transform-style: preserve-3d;
+    transform: rotateY(15deg) rotateX(5deg);
+    transition: transform 0.5s ease;
+    box-shadow: 0 30px 50px rgba(0,0,0,0.3);
+    border-top: 3px solid #f92672;
+    border-right: 3px solid #0d7377;
+  " onmouseover="this.style.transform='rotateY(5deg) rotateX(5deg)'" 
+  onmouseout="this.style.transform='rotateY(15deg) rotateX(5deg)'">
+    <h2 style="margin: 0; color: #fff;">🚀 Digital Craftsman</h2>
+    <p style="color: #a2a8d3;">Building the future one line of code at a time</p>
+  </div>
+</div>
+
+<!-- Dynamic Tabs Navigation -->
+<div align="center" style="margin-bottom: 2rem;">
+  <a href="#about" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #f92672; color: white; text-decoration: none; transition: all 0.3s ease;">About</a>
+  <a href="#tech-stack" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #0d7377; color: white; text-decoration: none; transition: all 0.3s ease;">Tech Stack</a>
+  <a href="#projects" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #ff9e00; color: white; text-decoration: none; transition: all 0.3s ease;">Projects</a>
+  <a href="#contact" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #6e41e2; color: white; text-decoration: none; transition: all 0.3s ease;">Contact</a>
+</div>
 ---
 
 ### 🚀 About Me
@@ -144,35 +179,13 @@
 > *"The best way to get started is to quit talking and begin doing." – Walt Disney*
 
 ---
-Here's an **enhanced and more advanced** version of your GitHub profile README, incorporating dynamic elements, better visuals, and additional sections to showcase your skills and personality:
 
-```markdown
 # 👨‍💻 Prabhath Dilshan | Aspiring Full-Stack Developer
 
 [![Visits Badge](https://badges.pufler.dev/visits/Dill1027/Dill1027?color=blue)](https://github.com/Dill1027)
 [![GitHub Followers](https://img.shields.io/github/followers/Dill1027?label=Follow&style=social)](https://github.com/Dill1027)
 [![LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
 **✨ Building digital solutions | Open-source enthusiast | Tech storyteller**
-
----
-
-## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Prabhath Dilshan"
-        self.role = "IT Undergraduate @ SLIIT"
-        self.focus = ["Web Development", "Distributed Systems", "AI/ML"]
-        self.hobbies = ["Automating workflows", "Contributing to OSS", "Tech blogging"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = Developer()
-me.say_hi()
-```
 
 ---
 
@@ -242,100 +255,6 @@ I'm always open to:
   <p>Made with ❤️ in Sri Lanka</p>
 </div>
 ```
-
-### 🎨 Advanced Features Included:
-1. **Dynamic Visitor Counter**: Shows profile views in real-time
-2. **Python Class Introduction**: Creative way to showcase your profile
-3. **Project Table**: Organized presentation of your work
-4. **GitHub Streak Stats**: Shows your coding consistency
-5. **Blog Post Automation**: Auto-updates with your latest articles (requires workflow setup)
-6. **Achievements Section**: Highlights your recognitions
-7. **Responsive Layout**: Looks great on all devices
-
-### 🛠️ Setup Tips:
-1. For **blog auto-updates**, create a workflow using [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-2. Add **real project links** and descriptions
-3. Customize the **tech stack** badges using [Shields.io](https://shields.io)
-4. Include **real metrics** from your hackathons or achievements
-
-Would you like me to add any specific section like a **coding activity graph** or **certification badges**? 😊
-
-merg this 2
-
-<!-- Header with Animated Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhath+Dilshan;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Innovator" alt="Typing Animation" />
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dill1027&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://badges.pufler.dev/years/Dill1027" alt="Years on GitHub" />
-  <img src="https://badges.pufler.dev/repos/Dill1027" alt="Repositories" />
-  <img src="https://badges.pufler.dev/commits/monthly/Dill1027" alt="Monthly Commits" />
-</div>
-
-<!-- 3D Profile Section -->
-<div align="center" style="margin: 2rem 0; perspective: 1000px;">
-  <div style="
-    background: linear-gradient(145deg, #1a1a2e, #16213e);
-    border-radius: 20px;
-    padding: 2rem;
-    display: inline-block;
-    transform-style: preserve-3d;
-    transform: rotateY(15deg) rotateX(5deg);
-    transition: transform 0.5s ease;
-    box-shadow: 0 30px 50px rgba(0,0,0,0.3);
-    border-top: 3px solid #f92672;
-    border-right: 3px solid #0d7377;
-  " onmouseover="this.style.transform='rotateY(5deg) rotateX(5deg)'" 
-  onmouseout="this.style.transform='rotateY(15deg) rotateX(5deg)'">
-    <h2 style="margin: 0; color: #fff;">🚀 Digital Craftsman</h2>
-    <p style="color: #a2a8d3;">Building the future one line of code at a time</p>
-  </div>
-</div>
-
-<!-- Dynamic Tabs Navigation -->
-<div align="center" style="margin-bottom: 2rem;">
-  <a href="#about" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #f92672; color: white; text-decoration: none; transition: all 0.3s ease;">About</a>
-  <a href="#tech-stack" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #0d7377; color: white; text-decoration: none; transition: all 0.3s ease;">Tech Stack</a>
-  <a href="#projects" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #ff9e00; color: white; text-decoration: none; transition: all 0.3s ease;">Projects</a>
-  <a href="#contact" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #6e41e2; color: white; text-decoration: none; transition: all 0.3s ease;">Contact</a>
-</div>
-
-<!-- About Section -->
-<div id="about" style="margin-bottom: 3rem;">
-  <h2 align="center" style="border-bottom: 3px solid #f92672; display: inline-block; padding-bottom: 5px;">About Me</h2>
-  
-  <div style="
-    background: rgba(26, 26, 46, 0.7);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
-    padding: 2rem;
-    margin-top: 1.5rem;
-  ">
-    <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-      <div style="flex: 1; min-width: 300px;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ0eW9uZ3Z3b2R5bWZ1cGJ6eGZ5dGZ6dWxqZzZ0eGZ6dWxqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="border-radius: 15px; max-width: 100%; height: auto;"/>
-      </div>
-      <div style="flex: 2; min-width: 300px;">
-        <p style="color: #fff; line-height: 1.6;">
-          I'm a passionate <strong>Full-Stack Developer</strong> and <strong>IT Undergraduate</strong> at SLIIT with expertise in building modern web applications. 
-          My journey in tech combines formal education with hands-on experience in:
-        </p>
-        <ul style="color: #a2a8d3; line-height: 1.8;">
-          <li>🚀 Developing scalable full-stack applications</li>
-          <li>🧠 Implementing AI/ML solutions</li>
-          <li>⚡ Optimizing developer workflows through automation</li>
-          <li>🌍 Contributing to open-source projects</li>
-        </ul>
-        <p style="color: #fff;">
-          When I'm not coding, you'll find me exploring new technologies, contributing to open-source, or mentoring fellow developers.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- Tech Stack Section -->
 <div id="tech-stack" style="margin-bottom: 3rem;">
