@@ -1,12 +1,4 @@
-<!-- Header with Profile Image and Typing Effect -->
-<div align="center">
-  <!-- Profile Image -->
-  <img src="https://avatars.githubusercontent.com/u/145959457?s=400&u=daa2167369274495c24f527cdc5c57928341d8e1&v=4" 
-       width="150" 
-       style="border-radius: 50%; border: 3px solid #f92672;" 
-       alt="Prabhath Dilshan" />
-  
-  <!-- Typing Animation -->
+
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F11&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhath+Dilshan;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Innovator" alt="Typing Animation" />
   </div>
