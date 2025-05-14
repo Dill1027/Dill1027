@@ -1,7 +1,7 @@
 <!-- Header with Profile Image and Typing Effect -->
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin-bottom: 2rem;">
   <!-- Profile Image with Floating Animation -->
-  <img src="https://avatars.githubusercontent.com/u/Dill1027" 
+  <img src="https://avatars.githubusercontent.com/u/145959457?s=400&u=daa2167369274495c24f527cdc5c57928341d8e1&v=4" 
        width="150" 
        style="border-radius: 50%; 
               border: 3px solid #f92672;
@@ -50,75 +50,13 @@
   <a href="#projects" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #ff9e00; color: white; text-decoration: none; transition: all 0.3s ease;">Projects</a>
   <a href="#contact" style="margin: 0 10px; padding: 8px 16px; border-radius: 20px; background: #6e41e2; color: white; text-decoration: none; transition: all 0.3s ease;">Contact</a>
 </div>
----
-
-### 🚀 About Me
-
-- 🎓 **IT Undergraduate** at **SLIIT**, currently in my 3rd year
-- 🌱 **Learning:** Python , Java, Python, Advanced CSS, Version Conroling and Distributed Systems
-- 🛠️ **Building:** A conflict-free Academic Scheduler web app with Automatid timetables genaration function && Dry Craft social media application
-- 💡 **Passionate About:** Open-source contributions, automation, and solving real-world problems
-- 🌍 **From:** Sri Lanka 🇱🇰  kurunegala 
-- 📫 **Reach me:** [Email](prabhathdilshan2001@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)
-- ⚡ **Fun fact:** I automate repetitive tasks just for fun!
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### 🗃️ Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🛠️ Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🎨 Design & Visualization
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-FF5722?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-### 🤖 AI & Productivity
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0F6FFF?style=for-the-badge&logo=ai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-4D4D4D?style=for-the-badge&logo=cursor&logoColor=white)
-![VisualMind](https://img.shields.io/badge/VisualMind-6E41E2?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-FFA500?style=for-the-badge&logo=ai&logoColor=black)
-
-### ☁️ Deployment & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
----
-
-### 📌 Featured Projects
-
-- 🎓 [Academic Scheduler](https://github.com/Dill1027/academic-scheduler) – MERN-based web app for conflict-free timetable management with Automatid timetables genaration function && Dry Craft social media application
-- 📁 [Student Enrollment System](https://github.com/Dill1027/enrollment-system) – Modern enrollment platform with a leaderboard and interactive features
-
-*(More coming soon!)*
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dill1027&theme=radical" alt="Dill1027" />
 </div>
 <div align="center" style="margin: 2rem 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   
@@ -176,48 +114,83 @@
   </div>
 </div>
 ---
+<h1 align="center">Hi 👋, I'm Prabhath Dilshan</h1>
 
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/deepteceng)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-profile)
-
----
-
-### 💬 Quote I Live By
-
-> *"The best way to get started is to quit talking and begin doing." – Walt Disney*
+<p align="center">
+  🎓 IT Undergraduate at <strong>SLIIT</strong> <br/>
+  💼 Currently working in  at <a href="https://www.facebook.com/deepteceng" target="_blank">Deep Tec Engineering</a> <br/>
+  🌍 Based in Kurunegala, Sri Lanka 🇱🇰
+</p>
 
 ---
 
-# 👨‍💻 Prabhath Dilshan | Aspiring Full-Stack Developer
+### 🚀 About Me
 
-[![Visits Badge](https://badges.pufler.dev/visits/Dill1027/Dill1027?color=blue)](https://github.com/Dill1027)
-[![GitHub Followers](https://img.shields.io/github/followers/Dill1027?label=Follow&style=social)](https://github.com/Dill1027)
-[![LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-**✨ Building digital solutions | Open-source enthusiast | Tech storyteller**
+- 🎓 **IT Undergraduate** at **SLIIT**, currently in my 3rd year  
+- 🌱 **Learning:** Python, Java, Advanced CSS, Version Control, and Distributed Systems  
+- 🛠️ **Building:**  
+  - 📚 Academic Scheduler web app (conflict-free timetable generation)  
+  - 🔧 DryCraft – a unique social media platform  
+- 💡 **Passionate About:** Open-source contributions, automation, and solving real-world problems  
+- 📫 **Reach me:** [Email](mailto:prabhathdilshan2001@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+- ⚡ **Fun fact:** I automate repetitive tasks just for fun!  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 🔧 Core Technologies
-![MERN Stack](https://img.shields.io/badge/MERN-000000?style=flat&logo=mongodb&logoColor=47A248)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+### 🌐 Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### 🗃️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🎨 Design & Visualization
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-FF5722?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+### 🤖 AI & Productivity
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0F6FFF?style=for-the-badge&logo=ai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-4D4D4D?style=for-the-badge&logo=cursor&logoColor=white)
+![VisualMind](https://img.shields.io/badge/VisualMind-6E41E2?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-FFA500?style=for-the-badge&logo=ai&logoColor=black)
+
+### ☁️ Deployment & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📣 Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+
+
+### 📌 Featured Projects
+
+- 🎓 [Academic Scheduler](https://github.com/Dill1027/academic-scheduler) – MERN-based web app for conflict-free timetable management with Automatid timetables genaration function && Dry Craft social media application
+- 📁 [Student Enrollment System](https://github.com/Dill1027/enrollment-system) – Modern enrollment platform with a leaderboard and interactive features
+
+*(More coming soon!)*
 
 ---
 
@@ -225,7 +198,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Academic Scheduler](https://github.com/Dill1027/academic-scheduler) | AI-powered timetable generator with gamification | MERN, Python, NLP |
+| [Academic Scheduler](https://github.com/Dill1027/academic-scheduler) | AI-powered timetable generator with gamification | MERN STACK |
 | [Enrollment System](https://github.com/Dill1027/enrollment-system) | Modern student management platform | React, Spring Boot, MySQL |
 | [Automation Scripts](https://github.com/Dill1027/automation-scripts) | Collection of productivity-boosting scripts | Python, Bash |
 
@@ -255,12 +228,47 @@ I'm always open to:
 - 🧠 Technical discussions
 - 🚀 Startup ideas
 
-📫 **How to reach me:**
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+## 🌐 Let's Connect
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 2rem 0;">
 
+  <!-- Email -->
+  <a href="mailto:prabhathdilshan2001@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/prabhath-dilshan-abeysinghe/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/dill_abeysinghe/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/PrabhathDilshanAbeysinghe/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" alt="Facebook" />
+  </a>
+  
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@prabhath_dil" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" alt="TikTok" />
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Dill1027" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+  </a>
+
+</div>
+
+<!-- Animated Contact GIF -->
+<div align="center" style="margin: 1rem 0;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Let's Connect" />
+  <p style="color: #a2a8d3; margin-top: 0.5rem;">Don't hesitate to reach out!</p>
+</div>
 <!-- Projects Section -->
 <div id="projects" style="margin-bottom: 3rem;">
   <h2 align="center" style="border-bottom: 3px solid #ff9e00; display: inline-block; padding-bottom: 5px;">🚀 Featured Projects</h2>
