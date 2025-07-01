@@ -781,7 +781,7 @@ I'm always open to:
         </td>
       </tr>
     </table>
-    <p><i>© 2023 Prabhath Dilshan. All rights reserved.</i></p>
+    <p><i>© 2025 Prabhath Dilshan. All rights reserved.</i></p>
     <img src="https://raw.githubusercontent.com/Dill1027/Dill1027/main/assets/line.gif" width="100%" height="2px" alt="Divider line">
   </div>
 </div>
