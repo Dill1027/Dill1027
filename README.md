@@ -196,28 +196,14 @@
 <!-- Skill Proficiency -->
 <div align="center" style="background: rgba(26,26,46,0.5); border-radius: 15px; padding: 1.5rem; margin-bottom: 2rem; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 16px rgba(0,0,0,0.1); font-size: 1.1rem; color: #c9c9c9;">
   <h2>📊 Skill Proficiency</h2>
-  <table>
-    <tr>
-      <td><b>Python</b></td>
-      <td><img src="https://progress-bar.dev/90/?title=Expert"/></td>
-    </tr>
-    <tr>
-      <td><b>JavaScript/TypeScript</b></td>
-      <td><img src="https://progress-bar.dev/85/?title=Advanced"/></td>
-    </tr>
-    <tr>
-      <td><b>Azure & Cloud</b></td>
-      <td><img src="https://progress-bar.dev/80/?title=Proficient"/></td>
-    </tr>
-    <tr>
-      <td><b>DevOps</b></td>
-      <td><img src="https://progress-bar.dev/75/?title=Skilled"/></td>
-    </tr>
-    <tr>
-      <td><b>UI/UX Design</b></td>
-      <td><img src="https://progress-bar.dev/60/?title=Intermediate"/></td>
-    </tr>
-  </table>
+  
+  <ul style="list-style: none; padding: 0; text-align: left; max-width: 400px; margin: 0 auto;">
+    <li><b>Python</b> <br> <code>█████████░░</code> <i>Expert</i></li>
+    <li><b>JavaScript/TypeScript</b> <br> <code>████████░░░</code> <i>Advanced</i></li>
+    <li><b>Azure & Cloud</b> <br> <code>███████░░░░</code> <i>Proficient</i></li>
+    <li><b>DevOps</b> <br> <code>██████░░░░░</code> <i>Skilled</i></li>
+    <li><b>UI/UX Design</b> <br> <code>████░░░░░░░</code> <i>Intermediate</i></li>
+  </ul>
 </div>
 
 <!-- Learning Roadmap -->
