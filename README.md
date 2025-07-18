@@ -164,7 +164,185 @@
   animation: pulse 3s ease-in-out infinite;
 "></div>
 
-## 📊 GitHub Analytics
+## � Current Focus & Availability
+
+<div align="center" style="
+  background: rgba(26,26,46,0.5);
+  border-radius: 15px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  font-size: 1.1rem;
+  color: #c9c9c9;
+">
+  <ul style="list-style: none; padding: 0;">
+    <li>🔭 <b>Currently working on:</b> Academic Scheduler v2.0, new automation scripts</li>
+    <li>📚 <b>Learning:</b> Docker, Kubernetes, Advanced AI/ML</li>
+    <li>🤝 <b>Open for:</b> Freelance, collaborations, mentorship</li>
+    <li>🌍 <b>Timezone:</b> GMT+5:30 (Sri Lanka)</li>
+  </ul>
+</div>
+<!-- Professional Journey -->
+<div align="center" style="background: rgba(26,26,46,0.5); border-radius: 15px; padding: 1.5rem; margin-bottom: 2rem; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 16px rgba(0,0,0,0.1); font-size: 1.1rem; color: #c9c9c9;">
+  <h2>🚀 Professional Journey</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li><b>2025–Present:</b> Senior Software Engineer at [Your Company], leading cloud-native projects and mentoring junior devs.</li>
+    <li><b>2022–2025:</b> Full Stack Developer at [Previous Company], architected scalable web apps and microservices.</li>
+    <li><b>2020–2022:</b> Junior Developer at [Startup], built MVPs and learned agile teamwork.</li>
+  </ul>
+</div>
+
+<!-- Skill Proficiency -->
+<div align="center" style="background: rgba(26,26,46,0.5); border-radius: 15px; padding: 1.5rem; margin-bottom: 2rem; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 16px rgba(0,0,0,0.1); font-size: 1.1rem; color: #c9c9c9;">
+  <h2>📊 Skill Proficiency</h2>
+  <table>
+    <tr>
+      <td><b>Python</b></td>
+      <td><img src="https://progress-bar.dev/90/?title=Expert"/></td>
+    </tr>
+    <tr>
+      <td><b>JavaScript/TypeScript</b></td>
+      <td><img src="https://progress-bar.dev/85/?title=Advanced"/></td>
+    </tr>
+    <tr>
+      <td><b>Azure & Cloud</b></td>
+      <td><img src="https://progress-bar.dev/80/?title=Proficient"/></td>
+    </tr>
+    <tr>
+      <td><b>DevOps</b></td>
+      <td><img src="https://progress-bar.dev/75/?title=Skilled"/></td>
+    </tr>
+    <tr>
+      <td><b>UI/UX Design</b></td>
+      <td><img src="https://progress-bar.dev/60/?title=Intermediate"/></td>
+    </tr>
+  </table>
+</div>
+
+<!-- Learning Roadmap -->
+<div align="center" style="background: rgba(26,26,46,0.5); border-radius: 15px; padding: 1.5rem; margin-bottom: 2rem; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 16px rgba(0,0,0,0.1); font-size: 1.1rem; color: #c9c9c9;">
+  <h2>🗺️ Learning Roadmap</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li>2025: Mastering AI/ML with Azure Machine Learning</li>
+    <li>2025: Deep dive into Kubernetes & container orchestration</li>
+    <li>2024: Advanced TypeScript & React patterns</li>
+    <li>2024: Cloud security best practices</li>
+  </ul>
+</div>
+
+<!-- Featured Writing -->
+<div align="center" style="background: rgba(26,26,46,0.5); border-radius: 15px; padding: 1.5rem; margin-bottom: 2rem; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 16px rgba(0,0,0,0.1); font-size: 1.1rem; color: #c9c9c9;">
+  <h2>✍️ Featured Writing</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li><a href="https://dev.to/yourprofile/azure-best-practices">Azure Best Practices for Modern Apps</a></li>
+    <li><a href="https://medium.com/@yourprofile/clean-code">Writing Clean Code: Principles & Pitfalls</a></li>
+    <li><a href="https://yourblog.com/weekly-dev-notes">Weekly Dev Notes</a></li>
+  </ul>
+</div>
+
+<!-- Community & Volunteering -->
+<div align="center" style="background: rgba(26,26,46,0.5); border-radius: 15px; padding: 1.5rem; margin-bottom: 2rem; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 16px rgba(0,0,0,0.1); font-size: 1.1rem; color: #c9c9c9;">
+  <h2>🤝 Community & Volunteering</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li>Mentor at <a href="https://www.codementor.io/">CodeMentor</a> and <a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
+    <li>Speaker at local tech meetups and conferences</li>
+    <li>Contributor to open-source projects</li>
+  </ul>
+</div>
+
+<!-- Support My Work -->
+<div align="center" style="background: rgba(26,26,46,0.5); border-radius: 15px; padding: 1.5rem; margin-bottom: 2rem; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 16px rgba(0,0,0,0.1); font-size: 1.1rem; color: #c9c9c9;">
+  <h2>☕ Support My Work</h2>
+  <p>If you like what I do, consider <a href="https://www.buymeacoffee.com/yourprofile">buying me a coffee</a> or <a href="https://github.com/sponsors/yourprofile">sponsoring me on GitHub</a>!</p>
+</div>
+
+<!-- Animated Divider -->
+<div style="
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, #5BC0EB 50%, transparent 100%);
+  margin: 2rem auto;
+  width: 80%;
+  animation: pulse 3s ease-in-out infinite;
+"></div>
+
+## 🏅 Certifications & Courses
+
+<div align="center" style="
+  background: rgba(26,26,46,0.5);
+  border-radius: 15px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  font-size: 1.1rem;
+  color: #c9c9c9;
+">
+  <ul style="list-style: none; padding: 0;">
+    <li>🎓 AWS Cloud Practitioner (In Progress)</li>
+    <li>🎓 MongoDB University - MongoDB Basics</li>
+    <li>🎓 freeCodeCamp - Full Stack JavaScript</li>
+  </ul>
+</div>
+
+<!-- Animated Divider -->
+<div style="
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, #9261F9 50%, transparent 100%);
+  margin: 2rem auto;
+  width: 80%;
+  animation: pulse 3s ease-in-out infinite;
+"></div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dill1027&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<!-- Animated Divider -->
+<div style="
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, #F85D7F 50%, transparent 100%);
+  margin: 2rem auto;
+  width: 80%;
+  animation: pulse 3s ease-in-out infinite;
+"></div>
+
+## ⏰ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- Animated Divider -->
+<div style="
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, #FF7F11 50%, transparent 100%);
+  margin: 2rem auto;
+  width: 80%;
+  animation: pulse 3s ease-in-out infinite;
+"></div>
+
+## 🎨 Beyond Code
+
+<div align="center" style="
+  background: rgba(26,26,46,0.5);
+  border-radius: 15px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  font-size: 1.1rem;
+  color: #c9c9c9;
+">
+  <ul style="list-style: none; padding: 0;">
+    <li>🎮 Gaming: Chess, strategy games</li>
+    <li>📚 Reading: Tech blogs, sci-fi novels</li>
+    <li>🏃‍♂️ Fitness: Running, gym workouts</li>
+    <li>☕ Coffee enthusiast</li>
+  </ul>
+</div>
+## �📊 GitHub Analytics
 
 <div align="center" style="
   display: flex;
