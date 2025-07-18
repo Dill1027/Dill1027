@@ -14,21 +14,13 @@
 </div>
 
 
-<!-- Profile Views & Badges (Markdown for GitHub compatibility) -->
-<p align="center">
-  <a href="https://github.com/Dill1027?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=Dill1027&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Dill1027?tab=repositories">
-    <img src="https://badges.pufler.dev/years/Dill1027" alt="Years on GitHub"/>
-  </a>
-  <a href="https://github.com/Dill1027?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Dill1027" alt="Repositories"/>
-  </a>
-  <a href="https://github.com/Dill1027">
-    <img src="https://badges.pufler.dev/commits/monthly/Dill1027" alt="Monthly Commits"/>
-  </a>
-</p>
+
+<!-- Profile Views & Badges (Pure Markdown for GitHub compatibility) -->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Dill1027&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/Dill1027?tab=repositories)
+[![Years on GitHub](https://badges.pufler.dev/years/Dill1027)](https://github.com/Dill1027?tab=repositories)
+[![Repositories](https://badges.pufler.dev/repos/Dill1027)](https://github.com/Dill1027?tab=repositories)
+[![Monthly Commits](https://badges.pufler.dev/commits/monthly/Dill1027)](https://github.com/Dill1027)
 
 <!-- 3D Profile Section with Gradient Border -->
 <div align="center" style="
