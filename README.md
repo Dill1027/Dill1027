@@ -13,62 +13,22 @@
   </div>
 </div>
 
-<!-- Profile Views Counter with Hover Effects -->
-<div align="center" style="
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
-  margin-bottom: 2rem;
-">
-  <a href="https://github.com/Dill1027?tab=repositories" style="
-    text-decoration: none;
-    transition: all 0.3s ease;
-  ">
-    <img src="https://komarev.com/ghpvc/?username=Dill1027&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" style="
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      border-radius: 8px;
-      padding: 0.5rem 1rem;
-    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(14, 117, 182, 0.3)'" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+
+<!-- Profile Views & Badges (Markdown for GitHub compatibility) -->
+<p align="center">
+  <a href="https://github.com/Dill1027?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=Dill1027&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  
-  <a href="https://github.com/Dill1027?tab=repositories" style="
-    text-decoration: none;
-    transition: all 0.3s ease;
-  ">
-    <img src="https://badges.pufler.dev/years/Dill1027" alt="Years on GitHub" style="
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      border-radius: 8px;
-      padding: 0.5rem 1rem;
-    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)'" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+  <a href="https://github.com/Dill1027?tab=repositories">
+    <img src="https://badges.pufler.dev/years/Dill1027" alt="Years on GitHub"/>
   </a>
-  
-  <a href="https://github.com/Dill1027?tab=repositories" style="
-    text-decoration: none;
-    transition: all 0.3s ease;
-  ">
-    <img src="https://badges.pufler.dev/repos/Dill1027" alt="Repositories" style="
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      border-radius: 8px;
-      padding: 0.5rem 1rem;
-    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)'" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+  <a href="https://github.com/Dill1027?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Dill1027" alt="Repositories"/>
   </a>
-  
-  <a href="https://github.com/Dill1027" style="
-    text-decoration: none;
-    transition: all 0.3s ease;
-  ">
-    <img src="https://badges.pufler.dev/commits/monthly/Dill1027" alt="Monthly Commits" style="
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      border-radius: 8px;
-      padding: 0.5rem 1rem;
-    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(0, 0, 0, 0.2)'" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+  <a href="https://github.com/Dill1027">
+    <img src="https://badges.pufler.dev/commits/monthly/Dill1027" alt="Monthly Commits"/>
   </a>
-</div>
+</p>
 
 <!-- 3D Profile Section with Gradient Border -->
 <div align="center" style="
